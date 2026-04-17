@@ -1,0 +1,4 @@
+Traffic Level,Total Vehicles,Total Time (sec),Throughput (records/sec),Average Latency (sec),Congested Locations
+low,5,0.2284,21.90,0.0428,None
+medium,15,0.5738,26.14,0.0355,"L1, L3"
+high,30,1.3219,22.69,0.0408,"L3, L4, L1, L5, L2"

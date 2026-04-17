@@ -1,0 +1,15 @@
+Traffic Level,Location,Vehicle Count,Status
+low,L3,2,CLEAR
+low,L1,1,CLEAR
+low,L5,1,CLEAR
+low,L4,1,CLEAR
+medium,L1,4,CONGESTED
+medium,L4,3,CLEAR
+medium,L5,3,CLEAR
+medium,L3,4,CONGESTED
+medium,L2,1,CLEAR
+high,L3,8,CONGESTED
+high,L4,5,CONGESTED
+high,L1,7,CONGESTED
+high,L5,5,CONGESTED
+high,L2,5,CONGESTED
